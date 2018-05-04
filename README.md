@@ -2,6 +2,15 @@
 
 My blog: [https://d0u9.win](https://d0u9.win)
 
+# Necessary libs
+
+```
+hexo-abbrlink
+hexo-addlink
+hexo-autonofollow
+hexo-qiniu-sync
+```
+
 # License
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][CC_4_0].
